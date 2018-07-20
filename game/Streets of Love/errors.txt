@@ -1,0 +1,14 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/options.rpy", line 23: expected statement.
+    config.screen_width = 800
+                        ^
+
+File "game/options.rpy", line 24: expected statement.
+    config.screen_height = 600
+                         ^
+
+Ren'Py Version: Ren'Py 6.99.14.3.3347
+Mon Jul 09 23:00:20 2018

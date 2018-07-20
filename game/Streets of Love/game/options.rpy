@@ -20,6 +20,9 @@ define config.name = _("Streets of Love")
 
 define gui.show_name = True
 
+define config.screen_width = 1024
+define config.screen_height = 768
+
 
 ## The version of the game.
 
