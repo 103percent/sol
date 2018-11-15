@@ -1,0 +1,22 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/script.rpy", line 63, in script
+    h "And I call myself a taxi driver!"
+Exception: Sayer 'h' is not defined.
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/script.rpy", line 63, in script
+    h "And I call myself a taxi driver!"
+  File "C:\Users\jak.marshall\Documents\jojosbizcaradventure\renpy-6.99.14.3-sdk\renpy\ast.py", line 624, in execute
+    who = eval_who(self.who, self.who_fast)
+  File "C:\Users\jak.marshall\Documents\jojosbizcaradventure\renpy-6.99.14.3-sdk\renpy\ast.py", line 537, in eval_who
+    raise Exception("Sayer '%s' is not defined." % who.encode("utf-8"))
+Exception: Sayer 'h' is not defined.
+
+Windows-8-6.2.9200
+Ren'Py 6.99.14.3.3347
+Streets of Love 1.0
+Thu Nov 15 14:41:36 2018

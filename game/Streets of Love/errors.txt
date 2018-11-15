@@ -2,13 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/options.rpy", line 23: expected statement.
-    config.screen_width = 800
-                        ^
-
-File "game/options.rpy", line 24: expected statement.
-    config.screen_height = 600
-                         ^
+File "game/script.rpy", line 12: expected statement.
+    bg interior  = "interior.png"
+                 ^
 
 Ren'Py Version: Ren'Py 6.99.14.3.3347
-Mon Jul 09 23:00:20 2018
+Thu Nov 15 14:45:29 2018
